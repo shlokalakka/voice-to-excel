@@ -1,0 +1,10 @@
+streamlit-webrtc
+pydub
+openpyxl
+streamlit
+openai-whisper
+torch
+gtts
+pandas
+numpy
+soundfile
