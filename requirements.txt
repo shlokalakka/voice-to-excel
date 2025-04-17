@@ -8,3 +8,4 @@ gtts
 pandas
 numpy
 soundfile
+speechrecognition
